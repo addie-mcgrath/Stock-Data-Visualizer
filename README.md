@@ -52,23 +52,6 @@ python run_app.py
 1. `line`
 2. `bar`
 
-## Suggested Git Workflow
-
-- Create a shared GitHub repository for the project
-- Use a `main` branch for stable work
-- Have each teammate work from their own feature branch
-- Open pull requests before merging
-- Make frequent, descriptive commits so the history shows steady collaboration
-
-## Suggested Team Deliverables
-
-- Use case diagram
-- Use case descriptions
-- Jira scrum board screenshots
-- Burndown chart screenshots
-- Team communication plan
-- Lessons learned narrative
-
 ## Notes
 
 - Alpha Vantage free-tier usage can be rate-limited, so repeated test runs may require a short wait.
